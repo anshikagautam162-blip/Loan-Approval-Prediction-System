@@ -60,7 +60,7 @@ This project develops an end-to-end personal loan approval prediction workflow:
 
 ```
 📦 Loan-Approval-Prediction-System
- ┣ 📓 Loan_Approval_Prediction_Project.ipynb   ← Main notebook
+ ┣ 📓 Loan-Approval-Prediction-Project.ipynb   ← Main notebook
  ┗ 📄 README.md
 ```
 
